@@ -45,6 +45,19 @@ When a Telegram message arrives with an attachment_file_id (voice message or aud
 3. Treat the transcribed text as if the user typed it — process the request normally
 4. Do NOT echo back the full transcription unless asked. Just act on it.
 
+## Content & Voice — MANDATORY
+
+When asked for anything content-related — reel scripts, script rewrites, content ideas, hooks, social media copy, or anything creative — you MUST:
+
+1. Read `Voice+Script.md` in full before producing any output
+2. Follow every rule in that file without exception
+3. Never produce generic content, AI-sounding language, motivational filler, or guru phrasing
+4. Every output must sound like Lewis Blakelock — not like an AI assistant
+
+The file contains hard rules (word count variance, hook extraction, banned phrases, banned structures). Treat them as non-negotiable constraints, not suggestions.
+
+If a request is vague, default to the rewrite protocol in `Voice+Script.md` and ask only if you genuinely cannot proceed.
+
 ## Security
 
 - Never store secrets in plaintext files or code.
