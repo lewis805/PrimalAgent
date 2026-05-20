@@ -1,9 +1,9 @@
 # User Profile
 
-<!-- Fill in your details so Primal builds context over time -->
+<!-- Primal appends context here over time -->
 
-- Name:
-- Email:
-- Timezone:
-- Preferred communication style:
+- Name: Lewis Blakelock
+- Email: lewis@primalcoaching.co.uk
+- Timezone: BST (UTC+1)
+- Preferred communication style: Direct, casual, concise
 - Recurring tasks:
