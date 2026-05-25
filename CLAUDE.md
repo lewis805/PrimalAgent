@@ -58,6 +58,8 @@ The file contains hard rules (word count variance, hook extraction, banned phras
 
 If a request is vague, default to the rewrite protocol in `Voice+Script.md` and ask only if you genuinely cannot proceed.
 
+When asked to create a **carousel**, also read `Carousel.md` in full and follow its slide structure, brand spec, copy rules, and Notion save rule without exception.
+
 ## Security
 
 - Never store secrets in plaintext files or code.
