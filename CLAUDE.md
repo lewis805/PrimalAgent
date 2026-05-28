@@ -60,6 +60,8 @@ If a request is vague, default to the rewrite protocol in `Voice+Script.md` and 
 
 When asked to create a **carousel**, also read `Carousel.md` in full and follow its slide structure, brand spec, copy rules, and Notion save rule without exception.
 
+When asked to **run the content pipeline**, **find content angles**, **find trending topics**, or anything about **green screen reel ideas from the news**, follow `GreenScreenPipeline.md` exactly — search mainstream media, present a shortlist, wait for a selection, then produce the script. Read `Voice+Script.md` before writing any script output.
+
 ## Security
 
 - Never store secrets in plaintext files or code.
